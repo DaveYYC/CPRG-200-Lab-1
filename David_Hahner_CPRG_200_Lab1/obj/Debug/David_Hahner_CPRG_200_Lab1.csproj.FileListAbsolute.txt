@@ -1,0 +1,30 @@
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\bin\Debug\David_Hahner_CPRG_200_Lab1.exe.config
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\bin\Debug\David_Hahner_CPRG_200_Lab1.exe
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\bin\Debug\David_Hahner_CPRG_200_Lab1.pdb
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.csprojAssemblyReference.cache
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.FrmCustomerBill.resources
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.Properties.Resources.resources
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.csproj.GenerateResource.cache
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.exe
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.pdb
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1 - Copy\David_Hahner_CPRG_200_Lab1\bin\Debug\David_Hahner_CPRG_200_Lab1.exe.config
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1 - Copy\David_Hahner_CPRG_200_Lab1\bin\Debug\David_Hahner_CPRG_200_Lab1.exe
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1 - Copy\David_Hahner_CPRG_200_Lab1\bin\Debug\David_Hahner_CPRG_200_Lab1.pdb
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1 - Copy\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.csprojAssemblyReference.cache
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1 - Copy\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.FrmCustomerBill.resources
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1 - Copy\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.Properties.Resources.resources
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1 - Copy\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.csproj.GenerateResource.cache
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1 - Copy\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1 - Copy\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.exe
+C:\Users\hahne\source\repos\David_Hahner_CPRG_200_Lab1 - Copy\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.pdb
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\bin\Debug\David_Hahner_CPRG_200_Lab1.exe.config
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\bin\Debug\David_Hahner_CPRG_200_Lab1.exe
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\bin\Debug\David_Hahner_CPRG_200_Lab1.pdb
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.csprojAssemblyReference.cache
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.FrmCustomerBill.resources
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.Properties.Resources.resources
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.csproj.GenerateResource.cache
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.exe
+C:\Users\hahne\Desktop\David_Hahner_CPRG_200_Lab1\David_Hahner_CPRG_200_Lab1\obj\Debug\David_Hahner_CPRG_200_Lab1.pdb
